@@ -98,7 +98,7 @@ Local WordPress setup with WooCommerce store configuration and customization.
 
 **Frontend:** React, React Router, Bootstrap, MUI, HTML5, CSS3, JavaScript  
 **Backend:** Node.js, Express, REST APIs, GraphQL  
-**Databases:** MongoDB, SQL (Normalization/ERD), Firebase Firestore/Realtime DB  
+**Databases:** MongoDB, SQL, Firebase Firestore/Realtime DB  
 **Mobile:** Kotlin, Jetpack Compose, Flutter  
 **Tools:** Git/GitHub, Postman, Webpack, Android Studio, Visual Studio  
 
