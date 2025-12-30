@@ -45,7 +45,7 @@
 
 <!-- Icons via skillicons.dev (free). -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,express,mongodb,graphql,html,css,bootstrap,flutter,kotlin,dotnet,wordpress,git,github,vscode,androidstudio=11" alt="Skill icons" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,express,mongodb,graphql,html,css,android,bootstrap,flutter,kotlin,dotnet,wordpress,git,github,vscode,androidstudio=11" alt="Skill icons" />
 </p>
 
 ---
