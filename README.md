@@ -45,7 +45,7 @@
 
 <!-- Icons via skillicons.dev (free). -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,express,mongodb,graphql,html,css,bootstrap,flutter,dart,kotlin,firebase,dotnet,wordpress,git,github,vscode,androidstudio=11" alt="Skill icons" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,express,mongodb,graphql,html,css,bootstrap,flutter,kotlin,dotnet,wordpress,git,github,vscode,androidstudio=11" alt="Skill icons" />
 </p>
 
 ---
@@ -53,7 +53,7 @@
 ## Featured Projects
 
 ### XDevVerse (Group Project) — Full-Stack Hackathon Platform  
-A role-based platform with **judging**, **organizer**, **participant**, **admin**, **AI Chat**, **payment**, **project scoring**, and **leaderboard** flows, built with **React + typescript + MongoDB**.   
+A comprehensive online hackathon platform enabling developers to participate in competitions, submit projects, and receive evaluations through an intelligent, AI-powered ecosystem.   
 
 **Tech:** React, MUI, Typescript, Express, MongoDB, REST APIs, JWT Auth
 
